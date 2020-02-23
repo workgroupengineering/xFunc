@@ -1,0 +1,8 @@
+title: xFunc
+description: xFunc is a simple and easy to use application that allows you to build mathematical and logical expressions. It's written on C#. This project consists two libraries and an execution file. The libraries include the code that converts strings to expressions.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
