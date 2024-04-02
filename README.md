@@ -51,7 +51,7 @@ var exp = processor.Parse("2 + x");
 // we should provide a value for variable 'x'
 var parameters = new ExpressionParameters
 {
-    new Parameter("x", 10)
+    { "x", 10 }
 };
 var result = exp.Execute(parameters);
 
