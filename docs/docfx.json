@@ -65,7 +65,8 @@
       "_appFooter": "Copyright © Dmytro Kyshchenko",
       "_appLogoPath": "images/logo.png",
       "_appFaviconPath": "images/favicon.ico",
-      "_enableSearch": "true"
+      "_enableSearch": "true",
+      "_googleAnalyticsTagId": "G-D6MW20NSD2"
     }
   }
 }
