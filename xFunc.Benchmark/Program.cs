@@ -21,7 +21,7 @@ public class Program
             .Run(args,
                 ManualConfig.Create(DefaultConfig.Instance)
                     .AddJob(Job.MediumRun
-                        .WithToolchain(CsProjCoreToolchain.NetCoreApp70))
+                        .WithToolchain(CsProjCoreToolchain.NetCoreApp80))
                     .AddDiagnoser(MemoryDiagnoser.Default)
                     .StopOnFirstError());
     }
